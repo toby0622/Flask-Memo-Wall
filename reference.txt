@@ -1,0 +1,13 @@
+Package Install:
+1. flask
+2. flask-login
+3. flask-sqlalchemy
+
+Custom Python Package:
+website => by apply __init__.py, the folder becomes a package
+
+JavaScript Alternative:
+using Flask Jinja to modify HTML
+
+Security:
+login to use the notepad function

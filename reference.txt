@@ -3,6 +3,9 @@ Package Install:
 2. flask-login
 3. flask-sqlalchemy
 
+Flask Database Using:
+SQLite
+
 Custom Python Package:
 website => by apply __init__.py, the folder becomes a package
 

@@ -32,6 +32,6 @@ def delete_note():
         if note.user_id == current_user.id:
             db.session.delete(note)
             db.session.commit()
-            flash('Memo Has Been Deleted!', category='success')
+            flash('Memo Has Been Deleted!', category='error')
 
     return jsonify({})

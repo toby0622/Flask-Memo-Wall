@@ -107,6 +107,8 @@
       <workItem from="1671329199961" duration="204000" />
       <workItem from="1671591370935" duration="1274000" />
       <workItem from="1671671630242" duration="3938000" />
+      <workItem from="1671686126526" duration="425000" />
+      <workItem from="1671699209117" duration="619000" />
     </task>
     <servers />
   </component>
@@ -128,6 +130,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/solid_invention$main.coverage" NAME="main Coverage Results" MODIFIED="1671675991522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/solid_invention$main.coverage" NAME="main Coverage Results" MODIFIED="1671686128238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

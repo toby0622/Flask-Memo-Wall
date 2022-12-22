@@ -6,8 +6,9 @@ import json
 
 views = Blueprint('views', __name__)
 
+# route 1: create new memo
 @views.route('/', methods=['GET', 'POST'])
-@login_required
+@login_required # login state to conduct function
 def home():
     if request.method == 'POST':
         note = request.form.get('note')
@@ -22,6 +23,7 @@ def home():
 
     return render_template("home.html", user=current_user)
 
+# route 2: delete route
 @views.route('/delete-note', methods=['POST'])
 def delete_note():
     note = json.loads(request.data)
